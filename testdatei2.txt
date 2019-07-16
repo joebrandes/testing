@@ -1,1 +1,5 @@
 Text in Datei 2
+
+Geändert vor einem späteren --amend.
+Geändert vor einem späteren --amend. Das ganze nochmals!
+
